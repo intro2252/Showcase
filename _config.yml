@@ -1,26 +1,6 @@
-
 # Build settings
 markdown: kramdown
 permalink: /:title/
-
-# Author Settings
-author:
-  name: Sooyoung Choi, Sungyong Park, Heewon Kim
-  affiliation: Soongsil University
-  email: hwkim@ssu.ac.kr
-
-# Project Settings
-project:
-  paper_url: https://arxiv.org/abs/your-paper
-  code_url: https://github.com/sidl-dataset/SIDL
-  dataset_url: your-dataset-url
-
-# Social Links
-social:
-  github: https://github.com/sidl-dataset
-
-# Analytics
-google_analytics: # your google analytics id
 
 # Exclude from processing
 exclude:
