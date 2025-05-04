@@ -17,7 +17,7 @@ data: "https://github.com/your-repo/dataset"
 
 <body>
   <hr>
-  <img src = "images/Ex01.jpg" alt = "Example 001" style="display: block; margin: auto;">
+  <img src="images/Ex01.jpg" alt="Example 001" style="display: block; width: 100%; height: auto; max-height: 600px; object-fit: cover;">
 </body>
 
 
