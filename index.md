@@ -1,5 +1,5 @@
 ---
-layout: project_page
+layout: default
 permalink: /
 title: "Showcase - Bit Arrow"
 authors:
