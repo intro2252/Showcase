@@ -1,6 +1,7 @@
 ---
-layout: default
-title: Showcase
+layout: project_page
+permalink: /
+title: "Showcase"
 ---
 
 <body>
