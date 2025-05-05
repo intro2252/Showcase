@@ -1,3 +1,8 @@
+---
+layout: default
+title: Showcase
+---
+
 <body>
   <hr>
   <img src="images/Page_1.png" alt="Bit_Arrow" style="display: block; width: 100%; height: auto; max-height: 600px; object-fit: cover;">
