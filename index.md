@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /
-title: "Showcase"
+title: "Showcase - Bit Arrow"
 ---
 
 <body>
@@ -11,7 +11,7 @@ title: "Showcase"
 
 <div class="columns is-centered has-text-centered">
   <div class="column is-four-fifths">
-    <h2>Bit_Arrow</h2>
+    <h2>Showcase - Bit_Arrow</h2>
     <div class="content has-text-justified">
       <p>
         <img src="images/1.png" alt="Bit_Arrow_1" style="display: block; margin: 1em auto;">
