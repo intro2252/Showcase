@@ -2,12 +2,6 @@
 layout: default
 permalink: /
 title: "Showcase - Bit Arrow"
-authors:
-  - 기획/개발 성준일
-  - 개발 양건주
-  - 아트 이동석
-affiliations:
-  - Soongsil University
 ---
 
 <body>
