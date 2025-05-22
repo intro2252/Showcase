@@ -3,11 +3,12 @@ layout: default
 permalink: /
 title: "Showcase - Bit Arrow"
 ---
-
+/*
 <body>
   <hr>
   <img src="images/Page_1.png" alt="Bit_Arrow" style="display: block; width: 100%; height: auto; max-height: 600px; object-fit: cover;">
 </body>
+*/
 
 <div class="columns is-centered has-text-centered">
   <div class="column is-four-fifths">
